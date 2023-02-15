@@ -1,4 +1,4 @@
-[11:41 pm, 15/02/2023] Hemsa: import cv2
+import cv2
 import numpy as np
 
 # Load pre-trained Haar cascade for face detection
